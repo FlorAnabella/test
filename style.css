@@ -1,0 +1,38 @@
+.heading {
+    font-family: 'Roboto', sans-serif;
+    font-weight:800;
+    color: #333333;
+    font-size: 20px;
+}
+
+.p-format {
+    font-family: 'Roboto', sans-serif;
+    color: #333333;
+    font-size: 15px;
+    font-weight: bolder;
+    margin-right: 80px;
+}
+
+.price {
+
+    font-family: 'Roboto', sans-serif;
+    color: #333333;
+    font-size: 35px;
+    font-weight:800;
+
+}
+
+.format-card {
+    margin: 30px 0px 30px 25px;
+    
+}
+
+.format-btn {
+    color: white;
+    background-color: #4ed17b;
+    border:none;
+    height: 40px;
+    width: 50px;
+    border-radius: 10%;
+    margin-left: 58%;
+}
